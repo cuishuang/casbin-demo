@@ -1,0 +1,4 @@
+p,zhangsan,data1,read
+
+
+#最好维护在数据库中。casbin已经帮忙封装好了支持xorm或gorm的方法
